@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="buy.css">
 </head>
 <body>
+	zxcvbnm,.///.,mnbvcxzxcvbnm
 	<?php
 		require 'header.php';
 	?>
